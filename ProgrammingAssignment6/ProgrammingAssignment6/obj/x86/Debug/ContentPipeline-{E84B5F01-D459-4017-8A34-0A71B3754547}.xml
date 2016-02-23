@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Clubs\Ace.png</Source>
+      <Name>Clubs\Ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ace.xnb</Output>
+      <Time>2015-04-24T12:45:15.6077031-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Eight.png</Source>
+      <Name>Clubs\Eight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Eight.xnb</Output>
+      <Time>2015-04-24T12:45:15.6157036-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Five.png</Source>
+      <Name>Clubs\Five</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Five.xnb</Output>
+      <Time>2015-04-24T12:45:15.622704-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Four.png</Source>
+      <Name>Clubs\Four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Four.xnb</Output>
+      <Time>2015-04-24T12:45:15.6307044-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Jack.png</Source>
+      <Name>Clubs\Jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Jack.xnb</Output>
+      <Time>2015-04-24T12:45:15.6387049-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\King.png</Source>
+      <Name>Clubs\King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\King.xnb</Output>
+      <Time>2015-04-24T12:45:15.6457053-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Nine.png</Source>
+      <Name>Clubs\Nine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Nine.xnb</Output>
+      <Time>2015-04-24T12:45:15.6547058-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Queen.png</Source>
+      <Name>Clubs\Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Queen.xnb</Output>
+      <Time>2015-04-24T12:45:15.6627063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Seven.png</Source>
+      <Name>Clubs\Seven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Seven.xnb</Output>
+      <Time>2015-04-24T12:45:15.6707067-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Six.png</Source>
+      <Name>Clubs\Six</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Six.xnb</Output>
+      <Time>2015-04-24T12:45:15.6787072-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Ten.png</Source>
+      <Name>Clubs\Ten</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ten.xnb</Output>
+      <Time>2015-04-24T12:45:15.6867076-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Three.png</Source>
+      <Name>Clubs\Three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Three.xnb</Output>
+      <Time>2015-04-24T12:45:15.6947081-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Clubs\Two.png</Source>
+      <Name>Clubs\Two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Two.xnb</Output>
+      <Time>2015-04-24T12:45:15.7017085-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Ace.png</Source>
+      <Name>Diamonds\Ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ace.xnb</Output>
+      <Time>2015-04-24T12:45:15.710709-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Eight.png</Source>
+      <Name>Diamonds\Eight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Eight.xnb</Output>
+      <Time>2015-04-24T12:45:15.7187095-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Five.png</Source>
+      <Name>Diamonds\Five</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Five.xnb</Output>
+      <Time>2015-04-24T12:45:15.7267099-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Four.png</Source>
+      <Name>Diamonds\Four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Four.xnb</Output>
+      <Time>2015-04-24T12:45:15.7347104-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Jack.png</Source>
+      <Name>Diamonds\Jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Jack.xnb</Output>
+      <Time>2015-04-24T12:45:15.7427108-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\King.png</Source>
+      <Name>Diamonds\King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\King.xnb</Output>
+      <Time>2015-04-24T12:45:15.7507113-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Nine.png</Source>
+      <Name>Diamonds\Nine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Nine.xnb</Output>
+      <Time>2015-04-24T12:45:15.7587117-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Queen.png</Source>
+      <Name>Diamonds\Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Queen.xnb</Output>
+      <Time>2015-04-24T12:45:15.7657121-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Seven.png</Source>
+      <Name>Diamonds\Seven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Seven.xnb</Output>
+      <Time>2015-04-24T12:45:15.7737126-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Six.png</Source>
+      <Name>Diamonds\Six</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Six.xnb</Output>
+      <Time>2015-04-24T12:45:15.7817131-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Ten.png</Source>
+      <Name>Diamonds\Ten</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ten.xnb</Output>
+      <Time>2015-04-24T12:45:15.7917136-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Three.png</Source>
+      <Name>Diamonds\Three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Three.xnb</Output>
+      <Time>2015-04-24T12:45:15.8087146-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Diamonds\Two.png</Source>
+      <Name>Diamonds\Two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Two.xnb</Output>
+      <Time>2015-04-24T12:45:15.815715-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Ace.png</Source>
+      <Name>Hearts\Ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ace.xnb</Output>
+      <Time>2015-04-24T12:45:15.8247155-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Eight.png</Source>
+      <Name>Hearts\Eight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Eight.xnb</Output>
+      <Time>2015-04-24T12:45:15.8317159-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Five.png</Source>
+      <Name>Hearts\Five</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Five.xnb</Output>
+      <Time>2015-04-24T12:45:15.8397164-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Four.png</Source>
+      <Name>Hearts\Four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Four.xnb</Output>
+      <Time>2015-04-24T12:45:15.8467168-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Jack.png</Source>
+      <Name>Hearts\Jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Jack.xnb</Output>
+      <Time>2015-04-24T12:45:15.8537172-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\King.png</Source>
+      <Name>Hearts\King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\King.xnb</Output>
+      <Time>2015-04-24T12:45:15.8617176-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Nine.png</Source>
+      <Name>Hearts\Nine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Nine.xnb</Output>
+      <Time>2015-04-24T12:45:15.8907193-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Queen.png</Source>
+      <Name>Hearts\Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Queen.xnb</Output>
+      <Time>2015-04-24T12:45:15.8987198-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Seven.png</Source>
+      <Name>Hearts\Seven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Seven.xnb</Output>
+      <Time>2015-04-24T12:45:15.9067202-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Six.png</Source>
+      <Name>Hearts\Six</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Six.xnb</Output>
+      <Time>2015-04-24T12:45:15.9147207-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Ten.png</Source>
+      <Name>Hearts\Ten</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ten.xnb</Output>
+      <Time>2015-04-24T12:45:15.9227211-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Three.png</Source>
+      <Name>Hearts\Three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Three.xnb</Output>
+      <Time>2015-04-24T12:45:15.9307216-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Hearts\Two.png</Source>
+      <Name>Hearts\Two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Two.xnb</Output>
+      <Time>2015-04-24T12:45:15.937722-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Ace.png</Source>
+      <Name>Spades\Ace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ace.xnb</Output>
+      <Time>2015-04-24T12:45:15.9467225-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Eight.png</Source>
+      <Name>Spades\Eight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Eight.xnb</Output>
+      <Time>2015-04-24T12:45:15.954723-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Five.png</Source>
+      <Name>Spades\Five</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Five.xnb</Output>
+      <Time>2015-04-24T12:45:15.9627234-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Four.png</Source>
+      <Name>Spades\Four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Four.xnb</Output>
+      <Time>2015-04-24T12:45:15.9707239-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Jack.png</Source>
+      <Name>Spades\Jack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Jack.xnb</Output>
+      <Time>2015-04-24T12:45:15.9777243-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\King.png</Source>
+      <Name>Spades\King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\King.xnb</Output>
+      <Time>2015-04-24T12:45:15.9857247-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Nine.png</Source>
+      <Name>Spades\Nine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Nine.xnb</Output>
+      <Time>2015-04-24T12:45:15.9937252-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Queen.png</Source>
+      <Name>Spades\Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Queen.xnb</Output>
+      <Time>2015-04-24T12:45:16.0017256-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Seven.png</Source>
+      <Name>Spades\Seven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Seven.xnb</Output>
+      <Time>2015-04-24T12:45:16.0097261-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Six.png</Source>
+      <Name>Spades\Six</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Six.xnb</Output>
+      <Time>2015-04-24T12:45:16.0167265-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Ten.png</Source>
+      <Name>Spades\Ten</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ten.xnb</Output>
+      <Time>2015-04-24T12:45:16.0237269-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Three.png</Source>
+      <Name>Spades\Three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Three.xnb</Output>
+      <Time>2015-04-24T12:45:16.0317274-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Spades\Two.png</Source>
+      <Name>Spades\Two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Two.xnb</Output>
+      <Time>2015-04-24T12:45:16.0397278-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Back.png</Source>
+      <Name>Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Back.xnb</Output>
+      <Time>2015-04-24T12:45:15.5757013-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hitbutton.png</Source>
+      <Name>hitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\hitbutton.xnb</Output>
+      <Time>2015-04-24T12:45:15.5827017-04:00</Time>
+    </Item>
+    <Item>
+      <Source>quitbutton.png</Source>
+      <Name>quitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\quitbutton.xnb</Output>
+      <Time>2015-04-24T12:45:15.5907021-04:00</Time>
+    </Item>
+    <Item>
+      <Source>standbutton.png</Source>
+      <Name>standbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\standbutton.xnb</Output>
+      <Time>2015-04-24T12:45:15.5987026-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial24.spritefont</Source>
+      <Name>Arial24</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Arial24.xnb</Output>
+      <Time>2015-04-24T12:45:16.0747298-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E84B5F01-D459-4017-8A34-0A71B3754547}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-24T21:54:48.0808428-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
